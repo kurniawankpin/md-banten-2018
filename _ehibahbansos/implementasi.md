@@ -45,9 +45,9 @@ Adapun struktur menu pada aplikasi E-Bansos adalah sebagai berikut:
 Pada bagian ini akan dijelaskan mengenai tata cara memasukan data hibah masuk sebagai data sumber melalui alamat situs yang telah disediakan.
 #### 2.2.1 Cara Membuka Situs
 Untuk memulai akses terhadap aplikasi Ehibah-Bansos ini:
-  1.Bukalah aplikasi E-Bansos melalui web browser dengan alamat url sebagai berikut :  http://ehibahbansos.bantenprov.go.id 
-  2.Kemudian tekan Enter pada tombol keyboard atau klik tombol GO pada browser.
-  3.Akan muncul tampilan halaman depan aplikasi E-Bansos sebagai berikut:
+1. Bukalah aplikasi E-Bansos melalui web browser dengan alamat url sebagai berikut :  http://ehibahbansos.bantenprov.go.id
+2. Kemudian tekan Enter pada tombol keyboard atau klik tombol GO pada browser.
+3. Akan muncul tampilan halaman depan aplikasi E-Bansos sebagai berikut:
 
 [![use awal](../images/implementasi/tampilan-ehibah-bansos.png)](../images/implementasi/tampilan-ehibah-bansos.png)
 
