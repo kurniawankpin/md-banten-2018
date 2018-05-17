@@ -161,10 +161,10 @@ Berikut ini adalah hasil eksekusi sistem informasi Dashboard
 #### 3.4.12 Layout Dashboard BPKAD
 ![my photo]({{ site.url }}images/desain-dan-perancangan/layout_awal-bpkad.png)
 ##### 3.4.12.1 Layout Tampilan Upload SPPD dan SPJ
-![my photo]({{ site.url }}images/desain-dan-perancangan/layout_sppd-dan-spj.png)
+[![koreksi](../images/desain-dan-perancangan/layout_sppd-dan-spj.png)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/dashboard-admin.jpg)
 
 ## 4.PENUTUP
 
 Dengan adanya pembuatan dari sistem aplikasi E-hibahbansos diharapkan dapat  terciptanya efisiensi proses, perbaikan prosedur, peningkatan transparansi dan akuntabilitas belanja hibah, bantuan sosial dan bantuan keuangan pada Pemerintah Provinsi Banten.
 
-[my photo]({{ site.url }}images/cc_by_88x31.png)
+![my photo]({{ site.url }}images/cc_by_88x31.png)
