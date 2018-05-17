@@ -166,3 +166,5 @@ Berikut ini adalah hasil eksekusi sistem informasi Dashboard
 ## 4.PENUTUP
 
 Dengan adanya pembuatan dari sistem aplikasi E-hibahbansos diharapkan dapat  terciptanya efisiensi proses, perbaikan prosedur, peningkatan transparansi dan akuntabilitas belanja hibah, bantuan sosial dan bantuan keuangan pada Pemerintah Provinsi Banten.
+
+[my photo]({{ site.url }}images/cc_by_88x31.png)
