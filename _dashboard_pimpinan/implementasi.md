@@ -273,7 +273,7 @@ Gambar 36. Tampilan Form Tabel Add Role User
 Didalam *page* ini terdapat *form input role user* yang berisi beberapa *field* untuk menambahkan *New Role User* pada aplikasi. Jika sudah mengisi semua *field* admin dapat memilih tombol "submit" untuk menambahkan *role user*, tombol "reset" untuk membersihkan *field* menjadi kosong lagi atau tombol "back" untuk membatalkan menambahkan *role user*.
 
 #### 12.3. List Permissions
-[![permissions-list-admin](/document/aplikasi/dashboard-pimpinan/images/implementasi/permissions-list-admin.png)](/document/aplikasi/dashboard-pimpinan/images/implementasi/permissions-list-admin.png)
+[![permissions-list-admin](../images/dashboard-pimpinan/implementasi/permissions-list-admin.png)](../images/dashboard-pimpinan/implementasi/permissions-list-admin.png)
 Gambar 37. Tampilan List Permissions
 
 Didalam *page* terdapat *list permissions* yang terdapat pada aplikasi Dashboard Pimpinan. Didalam *page* ini admin dapat menambahkan *permissions* dengan cara mengklik tombol "Create", dan sistem aplikasi akan menampilakan gambar di bawah ini.
