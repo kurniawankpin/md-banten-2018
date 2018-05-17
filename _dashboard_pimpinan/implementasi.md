@@ -279,7 +279,7 @@ Gambar 37. Tampilan List Permissions
 Didalam *page* terdapat *list permissions* yang terdapat pada aplikasi Dashboard Pimpinan. Didalam *page* ini admin dapat menambahkan *permissions* dengan cara mengklik tombol "Create", dan sistem aplikasi akan menampilakan gambar di bawah ini.
 
 ##### 12.3.1 Form Tabel Add Permissions
-[![form-tabel-add-permission-admin](/document/aplikasi/dashboard-pimpinan/images/implementasi/form-tabel-add-permission-admin.png)](/document/aplikasi/dashboard-pimpinan/images/implementasi/form-tabel-add-permission-admin.png)
+[![form-tabel-add-permission-admin](../images/dashboard-pimpinan/implementasi/form-tabel-add-permission-admin.png)](../images/dashboard-pimpinan/implementasi/form-tabel-add-permission-admin.png)
 Gambar 38. Tampilan Form Tabel Add Permissions
 
 Didalam *page* ini terdapat *form input new permissions* yang berisi beberapa *field* untuk menambahkan *New Permissions* pada aplikasi. Jika sudah mengisi semua *field* admin dapat memilih tombol "submit" untuk menambahkan *permissions*, tombol "reset" untuk membersihkan *field* menjadi kosong lagi atau tombol "back" untuk membatalkan menambahkan *permissions*.
