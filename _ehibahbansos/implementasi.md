@@ -29,17 +29,17 @@ Dokumen User Manual Apliksai Ehibah-Bansos ini dibuat untuk tujuan sebagai berik
 ### 2.1 Struktur Menu
 Adapun struktur menu pada aplikasi E-Bansos adalah sebagai berikut:
 
-#### 1.	Menu Dashboard
+1.	Menu Dashboard
 - Tentang
 - Proposal Hibah
 - Mendaftar  Hibah Bansos
-  #### 2.Menu Tentang
+2.Menu Tentang
 - Tentang Ehibah-Bansos
 - Tahapan
-  #### 3.Menu Proposal Hibah
+3.Menu Proposal Hibah
 - Kategori Hibah Bansos
 - Status hibah Bansos
-  #### 4.Mendaftar Hibah Bansos
+4.Mendaftar Hibah Bansos
 
 ### 2.2 Penggunaan
 Pada bagian ini akan dijelaskan mengenai tata cara memasukan data hibah masuk sebagai data sumber melalui alamat situs yang telah disediakan.
