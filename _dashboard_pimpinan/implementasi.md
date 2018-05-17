@@ -24,13 +24,13 @@ Untuk masuk kedalam aplikasi maka admin perlu untuk  login kedalam aplikasi Dash
 [![klik login](../images/dashboard-pimpinan/implementasi/klik-login.png)](../images/dashboard-pimpinan/implementasi/klik-login.png)
 
 Sehingga akan menampilkan tampilan seperti dibawah ini:
-[![tampilan-login-admin](/document/aplikasi/dashboard-pimpinan/images/implementasi/tampilan-login-admin-1.png)](/document/aplikasi/dashboard-pimpinan/images/implementasi/tampilan-login-admin-1.png)
+[![tampilan-login-admin](../images/dashboard-pimpinan/implementasi/tampilan-login-admin-1.png)](../images/dashboard-pimpinan/implementasi/tampilan-login-admin-1.png)
 Gambar 2. Tampilan Login
 
 Masukkan User Id dan Password, Setelah di isi lengkap dan benar, klik button **LOGIN** atau tekan tombol **Enter** pada keyboard. Sehingga akan menampilkan halaman utama sebagai berikut.
 
 ### 3. Tampilan Awal
-[![dashboard-home-awal](/document/aplikasi/dashboard-pimpinan/images/implementasi/dashboard-home-awal.png)](/document/aplikasi/dashboard-pimpinan/images/implementasi/dashboard-home-awal.png)
+[![dashboard-home-awal](../images/dashboard-pimpinan/implementasi/dashboard-home-awal.png)](../images/dashboard-pimpinan/implementasi/dashboard-home-awal.png)
 Gambar 3. Tampilan Awal
 
 ###  4. Menu Home
