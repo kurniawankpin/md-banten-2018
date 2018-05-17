@@ -30,7 +30,7 @@ Dibawah ini adalah contoh method, parameter dan *response* yang terdapat didalam
 #### 1.1 Kepegawaian
 ##### 1.1.1 Kenaikan Pangkat Otomatis Pegawai
 ###### 1.1.1.1 Save New Jumlah Kenaikan Pangkat Otomatis Pegawai
-[![nambah data kenaikan pangkat](../images/dashboard-pimpinan/dashboard-pimpinan/images/integrasi/kenaikan-pangkat-post1.png)](../images/dashboard-pimpinan/images/integrasi/kenaikan-pangkat-post1.png)
+[![nambah data kenaikan pangkat](../images/dashboard-pimpinan/integrasi-dan-pengujian/kenaikan-pangkat-post1.png)](../images/dashboard-pimpinan/integrasi-dan-pengujian/kenaikan-pangkat-post1.png)
 [![nambah data kenaikan pangkat](/document/aplikasi/dashboard-pimpinan/images/integrasi/kenaikan-pangkat-post2.png)](/document/aplikasi/dashboard-pimpinan/images/integrasi/kenaikan-pangkat-post2.png)
 Pada *page* ini terdapat *method* yang berupa tombol "POST" dan link url untuk konten kenaikan pangkat otomatis pegawai, method ini digunakan untuk menambahkan data baru aplikasi ke server. Parameter yang terdapat didalam konten ini berisi *field, type dan description*. Terdapat 2 *response* didalam *page* ini yaitu
 1. *Success Response* yang ditampilkan dalam "Success 200" dan hasilnya ditampilkan dalam bentuk Json.
