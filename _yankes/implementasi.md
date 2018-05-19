@@ -59,3 +59,52 @@ Ditampilan ini user bisa melihat informasi tentang dokter yang terdaftar diaplik
 [![profile dokter](../images/yankes/implementasi/android-detail-dokter.png)](../images/yankes/implementasi/android-detail-dokter.png)
 
 Ditampilan ini user dapat melihat informasi dokter serta jadwal jaga dokter dan terdapat menu konsultasi didalam tampilan ini.
+
+### 2.4	Tampilan Menu Rawat Inap
+
+
+[![rawat inap](../images/yankes/implementasi/android-menu-rawat-inap.png)](../images/yankes/implementasi/android-menu-rawat-inap.png)
+
+Didalam tampilan ini user dapat melihat list rumah sakit dan kamar rawat inap yang tersedia dirumah sakit tersebut. Serta dapat melihat “Detail” ada beberapa kamar yang kosong dan tersedia dari rumah sakit tersebut.
+
+#### 2.4.1	Tampilan Detail Rawat Inap
+
+[![detail rawat inap](../images/yankes/implementasi/android-detail-rawat-inap.png)](../images/yankes/implementasi/android-detail-rawat-inap.png)
+
+Didalam tampilan ini user dapat melihat ada berapa kamar yang tersedia serta ruangan-ruangan yang ada dari rumah sakit tersebut tanpa harus kita telf atau mendatangi rumah sakit tersebut.
+
+### 2.5 Tampilan Menu Ambulance
+
+[![ambulance](../images/yankes/implementasi/android-menu-ambulance.png)](../images/yankes/implementasi/android-menu-ambulance.png)
+
+Didalam tampilan ini user dapat melihat list rumah sakit dan Ambulance yang digunakan rumah sakit tersebut, berapa jumlah Ambulance yang tersedia apakah Ambulance tersebut sedang kosong atau tidak.
+
+#### 2.5.1	Tampilan Detail Menu Ambulance
+
+[![detail ambulance](../images/yankes/implementasi/android-detail-ambulance.png)](../images/yankes/implementasi/android-detail-ambulance.png)
+
+Didalam tampilan ini user dapat melihat detail dari rumah sakit dan Ambulance yang di sediakan dari rumah sakit tersebut.
+
+#### 2.6 Tampilan Menu Berita
+
+[![berita](../images/yankes/implementasi/android-menu-berita.png)](../images/yankes/implementasi/android-menu-berita.png)
+
+Ditampilan ini user dapat melihat berita berita terkait yang berada di Provinsi Banten, untuk melihat lebih detail tentang berita user dapat memilih tombol " BACA".
+
+#### 2.6.1	Tampilan Detail Menu Berita
+
+[![detail berita](../images/yankes/implementasi/android-detail-berita.png)](../images/yankes/implementasi/android-detail-berita.png)
+
+Dalam tampilan ini user dapat membaca berita mengenai kesehatan secara keseluruhan, jika dalam tampilan menu berita tadi hanya ditampilkan list nya dan jika kita Klik baca maka user dapat membaca berita yang kita pilih sampai selesai.
+
+### 2.7 Tampilan Menu Artikel
+
+[![artikel](../images/yankes/implementasi/android-menu-artikel.png)](../images/yankes/implementasi/android-menu-artikel.png)
+
+Didalam tampilan ini user dapat melihat artikel-artikel terkait kesehatan yang berada di Provinsi Banten, untuk melihat detail blog user dapat memilih tombol "BACA".
+
+#### 2.7.1	Tampilan Detail Manu Artikel
+
+[![detail artikel](../images/yankes/implementasi/android-detail-artikel.png)](../images/yankes/implementasi/android-detail-artikel.png)
+
+Dalam tampilan ini user dapat membaca artikel/blog mengenai kesehatan secara keseluruhan, jika dalam tampilan menu berita tadi hanya ditampilkan list nya dan jika kita Klik baca maka user dapat membaca berita yang kita pilih sampai selesai.
