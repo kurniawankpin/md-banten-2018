@@ -154,7 +154,7 @@ Permodelan rancangan sistem yang dgunakan adalah UML (Unified Modeling Language)
 #### 3.6.3 Tampilan dalam Aplikasi Mobile (Android)
 ##### 3.6.3.1 Layout Tampilan Dashboard
 
-[![dashboard mobile](../images/yankes/desain-dan-perancangan/dashboard-yankes-mobile-view-ruang-rawat.png)](../images/yankes/desain-dan-perancangan/dashboard-yankes-mobile.png)
+[![dashboard mobile](../images/yankes/desain-dan-perancangan/dashboard-yankes-mobile.png)](../images/yankes/desain-dan-perancangan/dashboard-yankes-mobile.png)
 
 Dalam layout ini hanya ada tombol menu yang berada di bawah terdapat beberapa menu. Dalam layout ini juga terdapat image slider yang berfungsi untuk menampilkan banner yang akan berganti setiap 3 detik. Ada juga pilihan kategori laporan yang berbentuk grid atau baris, jumlah item dalam grid ini tergantung pada jumlah kategori yang ada dalam database.
 
