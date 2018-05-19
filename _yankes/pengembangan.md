@@ -22,7 +22,7 @@ Berikut ini adalah tampilan - tampilan yang terdapat didalam apliaksi YANKES:
 
 ### 1.	Tampilan Dashboard Android Yankes
 
-[![dashboard](../yankes/images/pengembangan/android-dashboard-yankes.png)](../yankes/images/pengembangan/android-dashboard-yankes.png)
+[![dashboard](../images/yankes/pengembangan/android-dashboard-yankes.png)](../images/yankes/pengembangan/android-dashboard-yankes.png)
 
 Disaat membuka aplikasi Android YANKES untuk admin maka akan timbul tampilan seperti gambar diatas. Dalam tampilan dashboard tersebut terdapat beberapa menu yang dapat diakses, seperti menu Rumah sakit, Dokter, Kamar Inap, Ambulance, Berita, Artikel.
 
