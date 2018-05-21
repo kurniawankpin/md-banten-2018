@@ -7,7 +7,7 @@ cat: YANKES
 toc: true
 ---
 
-# Integrasi dan Pengujian Dashboard Pimpinan
+# Integrasi dan Pengujian Aplikasi Mobile Yankes
 
 Pada laporan ini akan membahas tentang Pengujian dan Integrasi Dashboard Pimpinan, untuk pengujiannya menggunakan User Acceptance Test.
 
@@ -25,7 +25,7 @@ Integrasi aplikasi dilakukan dengan:
 
 Application Programming Interface mekanisme terdefinisi dibuat untuk berhubungan dengan sumber daya seperti server aplikasi, middleware, dan basis data.
 
-Dibawah ini adalah contoh method, parameter dan response yang terdapat didalam Dashboard Pimpinan:
+Dibawah ini adalah contoh method, parameter dan response yang terdapat didalam aplikasi mobile yankes:
 
 ## 2.  User Acceptance Test
 
