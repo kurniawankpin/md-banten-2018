@@ -2,7 +2,7 @@
 layout: document
 title: Pengembangan
 description: Pengembangan Aplikasi Mobile Layanan Kesehatan
-cat: _yankes
+cat: Yankes
 toc: true
 ---
 
