@@ -2,8 +2,7 @@
 layout: document
 title: Implementasi SOP Online
 description: Implementasi aplikasi SOP Online yang digunakan Pemerintah Provinsi Banten.
-group: aplikasi
-cat: sop-online
+cat: _sop_online
 toc: true
 ---
 
