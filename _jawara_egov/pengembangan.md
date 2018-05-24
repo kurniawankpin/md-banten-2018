@@ -184,21 +184,25 @@ Pada Tampilan ini terdapat beberapa submenu yaitu Gallery, News and Events dan K
 
 ## 2. Tampilan Android
 
+### 2.1 Tampilan Loading JAWARA e-Gov
+
+[![lihat Category](../images/jawara-egov/pengembangan/loading.jpeg)](../images/jawara-egov/pengembangan/loading.jpeg)
+
 ### 2.1 Tampilan Dashboard JAWARA e-Gov
 
-[![lihat Category](../images/jawara-egov/pengembangan/dashboard.jpeg)](../images/jawara-egov/pengembangan/dashboard.jpeg)
+[![lihat Category](../images/jawara-egov/pengembangan/dashboard1.jpeg)](../images/jawara-egov/pengembangan/dashboard1.jpeg)
 
-Pada tampilan ini *user* dapat melihat menu-menu yang tersedia pada apliaksi yaitu Profil Provinsi, Profil Pemerintah, Layanan Informasi, Pembangunan Daerah dan Press Release.
+Pada tampilan ini *user* dapat melihat aplikasi-aplikasi yang telah terintegrasi dengan JAWARA e-Gov.
 
 ### 2.2 Tampilan Apliaksi Pemerintah
 
-[![lihat Category](../images/jawara-egov/pengembangan/aplikasi-pemerintah.jpeg)](../images/jawara-egov/pengembangan/aplikasi-pemerintah.jpeg)
+[![lihat Category](../images/jawara-egov/pengembangan/aplikasi-pemerintah1.jpeg)](../images/jawara-egov/pengembangan/aplikasi-pemerintah1.jpeg)
 
 Pada tampilan ini *user* dapat melihat aplikasi-aplikasi yang digunakan khusus untuk pemerintahan saja.
 
 ### 2.3 Tampilan Apliaksi Publik
 
-[![lihat Category](../images/jawara-egov/pengembangan/aplikasi-publik.jpeg)](../images/jawara-egov/pengembangan/aplikasi-publik.jpeg)
+[![lihat Category](../images/jawara-egov/pengembangan/aplikasi-publik1.jpeg)](../images/jawara-egov/pengembangan/aplikasi-publik1.jpeg)
 
 Pada tampilan ini *user* dapat melihat aplikasi-aplikasi yang dapat digunakan oleh masyarakat khususnya dalam ruang lingkiup Provinsi Banten.
 
