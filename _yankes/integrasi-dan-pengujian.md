@@ -2,8 +2,7 @@
 layout: document
 title: Integrasi dan Pengujian
 description: Integrasi dan Pengujian Aplikasi Mobile Layanan Kesehatan
-group: aplikasi
-cat: YANKES
+cat: _yankes
 toc: true
 ---
 
