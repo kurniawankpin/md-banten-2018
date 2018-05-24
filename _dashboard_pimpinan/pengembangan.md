@@ -4,6 +4,7 @@ title: "Pengembangan"
 date: 2018-05-16 16:25:06 +0700
 comments: true
 toc: true
+cat: _dashboard_pimpinan
 ---
 
 [![cover-manual-book-dashboard-pimpinan](../images/dashboard-pimpinan/pengembangan/cover-manual-book-dashboard-pimpinan.jpeg)](../images/dashboard-pimpinan/pengembangan/cover-manual-book-dashboard-pimpinan.jpeg)
