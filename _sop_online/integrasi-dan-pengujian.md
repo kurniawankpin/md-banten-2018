@@ -131,7 +131,6 @@ Dalam tabel ini *user* dapat melakukan test kepada aplikasi apakah tampilan add 
 
 ##### Tampilan View Sop Online
 
-
 ###### Subkonten Edit Permission
 
 | Subkonten       | URL/ Image                               | Ada  | Tidak |
@@ -146,7 +145,7 @@ Dalam tabel ini *user* dapat melakukan test kepada aplikasi apakah tampilan view
 | Tampilan        | URL/ Image                               | Ada  | Tidak |
 | --------------- | ---------------------------------------- | ---- | ----- |
 | Edit Sop Online | [![Tampilan Edit Sop Online](/document/aplikasi/sop-online/images/integrasi/20-tampilan-edit-sop-online.png)](/document/aplikasi/sop-online/images/integrasi/20-tampilan-edit-sop-online.png) |      |       |
-=======
+
 ##### Konten Role
 
 | Konten | URL/ Image                               | Ada  | Tidak |
@@ -326,6 +325,7 @@ Dalam tabel ini *user* dapat melakukan test kepada aplikasi apakah tampilan add 
 | Subkonten         | URL/ Image                               | Ada  | Tidak |
 | ----------------- | ---------------------------------------- | ---- | ----- |
 | Tambah State List | [![Tambah State List](/document/aplikasi/sop-online/images/implementasi/sop-state-list-nambah.png)](http://sop-online-01.dev.bantenprov.go.id/workflow/state/create) |      |       |
+
 Dalam tabel ini *user* dapat melakukan test kepada aplikasi apakah subkonten tambah state list sudah dapat diakses oleh *user* atau tidak. Untuk mengecek dapat diakses tidaknya subkonten ini *user* dapat membuka link url http://http://sop.bantenprov.go.id//workflow/state/create , jika sudah dapat diakses *user* dapat meceklis pada kolom "Ada" sedangkan jika belum dapat diakses maka *user* dapat menceklis pada kolom "tidak".
 
 ###### Subkonten Edit State List
