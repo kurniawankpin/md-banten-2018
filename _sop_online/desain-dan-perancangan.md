@@ -2,8 +2,7 @@
 layout: document
 title: Desain dan Perancangan SOP Online
 description: Desain dan Perancangan Aplikasi SOP Online yang digunakan Pemerintah Provinsi Banten.
-group: aplikasi
-cat: sop-online
+cat: _sop_online
 toc: true
 ---
 
