@@ -123,7 +123,6 @@ Dalam tabel ini *user* dapat melakukan test kepada aplikasi apakah tampilan view
 
 ##### Tampilan Edit Sop Online
 
-
 | Tampilan        | URL/ Image                               | Ada  | Tidak |
 | --------------- | ---------------------------------------- | ---- | ----- |
 | Edit Sop Online | [![Tampilan Edit Sop Online](../images/sop-online/integrasi-dan-pengujian/20-tampilan-edit-sop-online.png)](../images/sop-online/integrasi-dan-pengujian/20-tampilan-edit-sop-online.png) |      |       |
@@ -155,30 +154,6 @@ Dalam tabel ini *user* dapat melakukan test kepada aplikasi apakah tampilan add 
 
 Dalam tabel ini *user* dapat melakukan test kepada aplikasi apakah tampilan edit workflow sudah dapat diakses oleh *user* atau tidak. Jika sudah dapat diakses *user* dapat meceklis pada kolom "Ada" sedangkan jika belum dapat diakses maka *user* dapat menceklis pada kolom "tidak".
 
-###### Subkontem Tambah Role
-
-| Subkonten   | URL/ Image                               | Ada  | Tidak |
-| ----------- | ---------------------------------------- | ---- | ----- |
-| Tambah Role | [![Tambah Role](../images/sop-online/integrasi-dan-pengujian/sop-role-nambah.png)](../images/sop-online/integrasi-dan-pengujian/sop-role-nambah.png) |      |       |
-
-Dalam tabel ini *user* dapat melakukan test kepada aplikasi apakah subkonten tambah role sudah dapat diakses oleh *user* atau tidak. Untuk mengecek dapat diakses tidaknya subkonten ini *user* dapat membuka link url http://sop.bantenprov.go.id/advancetrust/role/create , jika sudah dapat diakses *user* dapat meceklis pada kolom "Ada" sedangkan jika belum dapat diakses maka *user* dapat menceklis pada kolom "tidak".
-
-###### Subkonten View Role
-
-
-
-
-
-
-###### Subkonten Edit Role
-
-| Subkonten | URL/ Image                               | Ada  | Tidak |
-| --------- | ---------------------------------------- | ---- | ----- |
-| Edit Role | [![Edit Role](../images/sop-online/integrasi-dan-pengujian/sop-role-edit.png)](../images/sop-online/integrasi-dan-pengujian/sop-role-edit.png) |      |       |
-
-
-
-
 ##### Tampilan State List
 
 | Tampilan   | URL/ Image                               | Ada  | Tidak |
@@ -187,13 +162,6 @@ Dalam tabel ini *user* dapat melakukan test kepada aplikasi apakah subkonten tam
 
 
 Dalam tabel ini *user* dapat melakukan test kepada aplikasi apakah tampilan state list sudah dapat diakses oleh *user* atau tidak. Jika sudah dapat diakses *user* dapat meceklis pada kolom "Ada" sedangkan jika belum dapat diakses maka *user* dapat menceklis pada kolom "tidak".
-
-##### Konten Request
-
-| Konten  | URL/ Image                               | Ada  | Tidak |
-| ------- | ---------------------------------------- | ---- | ----- |
-| Request | [![Konten request](../images/sop-online/integrasi-dan-pengujian/sop-request.png)](../images/sop-online/integrasi-dan-pengujian/sop-request.png) |      |       |
-
 
 ##### Tampilan Add new State
 
@@ -237,24 +205,6 @@ Dalam tabel ini *user* dapat melakukan test kepada aplikasi apakah tampilan add 
 Dalam tabel ini *user* dapat melakukan test kepada aplikasi apakah tampilan edit transition sudah dapat diakses oleh *user* atau tidak. Jika sudah dapat diakses *user* dapat meceklis pada kolom "Ada" sedangkan jika belum dapat diakses maka *user* dapat menceklis pada kolom "tidak".
 
 ##### Tampilan Workflow Guard
-
-
-###### Subkontem Tambah Request
-
-| Subkonten      | URL/ Image                               | Ada  | Tidak |
-| -------------- | ---------------------------------------- | ---- | ----- |
-| Workflow Guard | [![Tampilan Workflow Guard](../images/sop-online/integrasi-dan-pengujian/08-tampilan-workflow-guard.png)](../images/sop-online/integrasi-dan-pengujian/08-tampilan-workflow-guard.png) |      |       |
-
-
-Dalam tabel ini *user* dapat melakukan test kepada aplikasi apakah tampilan workflow guard sudah dapat diakses oleh *user* atau tidak. Jika sudah dapat diakses *user* dapat meceklis pada kolom "Ada" sedangkan jika belum dapat diakses maka *user* dapat menceklis pada kolom "tidak".
-
-###### Subkonten View Request
-
-| Subkonten    | URL/ Image                               | Ada  | Tidak |
-| ------------ | ---------------------------------------- | ---- | ----- |
-| View Request | [![View Request](../images/sop-online/integrasi-dan-pengujian/sop-request-view.png)](../images/sop-online/integrasi-dan-pengujian/sop-request-view.png) |      |       |
-
-
 ##### Tampilan Add New Guard
 
 
@@ -264,16 +214,7 @@ Dalam tabel ini *user* dapat melakukan test kepada aplikasi apakah tampilan work
 
 Dalam tabel ini *user* dapat melakukan test kepada aplikasi apakah tampilan add new guard sudah dapat diakses oleh *user* atau tidak. Jika sudah dapat diakses *user* dapat meceklis pada kolom "Ada" sedangkan jika belum dapat diakses maka *user* dapat menceklis pada kolom "tidak".
 
-###### Subkonten Edit Request
-
-| Subkonten    | URL/ Image                               | Ada  | Tidak |
-| ------------ | ---------------------------------------- | ---- | ----- |
-| Edit Request | [![Edit Role](../images/sop-online/integrasi-dan-pengujian/sop-request-edit.png)](../images/sop-online/integrasi-dan-pengujian/sop-request-edit.png) |      |       |
-
-
 ##### Tampilan Edit Guard
-
-##### Konten State List
 
 | Konten     | URL/ Image                               | Ada  | Tidak |
 | ---------- | ---------------------------------------- | ---- | ----- |
@@ -306,22 +247,6 @@ Dalam tabel ini *user* dapat melakukan test kepada aplikasi apakah tampilan add 
 
 Dalam tabel ini *user* dapat melakukan test kepada aplikasi apakah tampilan Edit attachment sudah dapat diakses oleh *user* atau tidak. Jika sudah dapat diakses *user* dapat meceklis pada kolom "Ada" sedangkan jika belum dapat diakses maka *user* dapat menceklis pada kolom "tidak".
 
-###### Subkontem Tambah State List
-
-| Subkonten       | URL/ Image                               | Ada  | Tidak |
-| --------------- | ---------------------------------------- | ---- | ----- |
-| Add state list  | [![Tampilan state list](../images/sop-online/integrasi-dan-pengujian/24-tampilan-add-state.png)](../images/sop-online/integrasi-dan-pengujian/24-tampilan-add-state.png) |      |       |
-
-Dalam tabel ini *user* dapat melakukan test kepada aplikasi apakah subkonten tambah state list sudah dapat diakses oleh *user* atau tidak. Untuk mengecek dapat diakses tidaknya subkonten ini *user* dapat membuka link url http://sop.bantenprov.go.id//workflow/state/create , jika sudah dapat diakses *user* dapat meceklis pada kolom "Ada" sedangkan jika belum dapat diakses maka *user* dapat menceklis pada kolom "tidak".
-
-###### Subkonten Edit State List
-
-| Subkonten       | URL/ Image                               | Ada  | Tidak |
-| --------------- | ---------------------------------------- | ---- | ----- |
-| Edit state list | [![Tampilan Edit state list](../images/sop-online/integrasi-dan-pengujian/25-tampilan-edit-state.png)](../images/sop-online/integrasi-dan-pengujian/25-tampilan-edit-state.png) |      |       |
-
-Dalam tabel ini *user* dapat melakukan test kepada aplikasi apakah tampilan edit attachment sudah dapat diakses oleh *user* atau tidak. Jika sudah dapat diakses *user* dapat meceklis pada kolom "Ada" sedangkan jika belum dapat diakses maka *user* dapat menceklis pada kolom "tidak".
-
 ##### Tampilan Workflow Content
 
 
@@ -341,24 +266,6 @@ Dalam tabel ini *user* dapat melakukan test kepada aplikasi apakah tampilan work
 
 Dalam tabel ini *user* dapat melakukan test kepada aplikasi apakah tampilan add new content sudah dapat diakses oleh *user* atau tidak. Jika sudah dapat diakses *user* dapat meceklis pada kolom "Ada" sedangkan jika belum dapat diakses maka *user* dapat menceklis pada kolom "tidak".
 
-
-##### Tampilan Edit Content
-
-###### Subkonten Tambah Transition List
-
-| Subkonten              | URL/ Image                               | Ada  | Tidak |
-| ---------------------- | ---------------------------------------- | ---- | ----- |
-| Tambah Transition List | [![Tambah Transition List](../images/sop-online/integrasi-dan-pengujian/sop-transition-list-nambah.png)](../images/sop-online/integrasi-dan-pengujian/sop-transition-list-nambah.png) |      |       |
-
-Dalam tabel ini *user* dapat melakukan test kepada aplikasi apakah subkonten tambah transition list sudah dapat diakses oleh *user* atau tidak. Untuk mengecek dapat diakses tidaknya subkonten ini *user* dapat membuka link url http://sop.bantenprov.go.id/workflow/transition/create , jika sudah dapat diakses *user* dapat meceklis pada kolom "Ada" sedangkan jika belum dapat diakses maka *user* dapat menceklis pada kolom "tidak".
-
-
-| Tampilan     | URL/ Image                               | Ada  | Tidak |
-| ------------ | ---------------------------------------- | ---- | ----- |
-| Edit Content | [![Tampilan Edit Content](../images/sop-online/integrasi-dan-pengujian/33-tampilan-edit-content.png)](../images/sop-online/integrasi-dan-pengujian/33-tampilan-edit-content.png) |      |       |
-
-Dalam tabel ini *user* dapat melakukan test kepada aplikasi apakah tampilan edit content sudah dapat diakses oleh *user* atau tidak. Jika sudah dapat diakses *user* dapat meceklis pada kolom "Ada" sedangkan jika belum dapat diakses maka *user* dapat menceklis pada kolom "tidak".
-
 ##### Tampilan Workflow History
 
 | Tampilan         | URL/ Image                               | Ada  | Tidak |
@@ -366,6 +273,90 @@ Dalam tabel ini *user* dapat melakukan test kepada aplikasi apakah tampilan edit
 | Workflow History | [![Tampilan Workflow History](../images/sop-online/integrasi-dan-pengujian/11-tampilan-workflow-history.png)](../images/sop-online/integrasi-dan-pengujian/11-tampilan-workflow-history.png) |      |       |
 
 Dalam tabel ini *user* dapat melakukan test kepada aplikasi apakah tampilan workflow history sudah dapat diakses oleh *user* atau tidak. Jika sudah dapat diakses *user* dapat meceklis pada kolom "Ada" sedangkan jika belum dapat diakses maka *user* dapat menceklis pada kolom "tidak".
+
+
+
+
+
+
+###### Subkontem Tambah Role
+
+| Subkonten   | URL/ Image                               | Ada  | Tidak |
+| ----------- | ---------------------------------------- | ---- | ----- |
+| Tambah Role | [![Tambah Role](../images/sop-online/integrasi-dan-pengujian/39-tampilan-new-role.png)](../images/sop-online/integrasi-dan-pengujian/39-tampilan-new-role.png) |      |       |
+
+Dalam tabel ini *user* dapat melakukan test kepada aplikasi apakah subkonten tambah role sudah dapat diakses oleh *user* atau tidak. Untuk mengecek dapat diakses tidaknya subkonten ini *user* dapat membuka link url http://sop.bantenprov.go.id/advancetrust/role/create , jika sudah dapat diakses *user* dapat meceklis pada kolom "Ada" sedangkan jika belum dapat diakses maka *user* dapat menceklis pada kolom "tidak".
+
+###### Subkonten View Role
+
+| Subkonten   | URL/ Image                               | Ada  | Tidak |
+| ----------- | ---------------------------------------- | ---- | ----- |
+| view Role   | [![Tambah Role](../images/sop-online/integrasi-dan-pengujian/40-tampilan-view-role.png)](../images/sop-online/integrasi-dan-pengujian/40-tampilan-view-role.png) |      |       |
+
+Dalam tabel ini *user* dapat melakukan test kepada aplikasi apakah subkonten view role sudah dapat diakses oleh *user* atau tidak. Jika sudah dapat diakses *user* dapat meceklis pada kolom "Ada" sedangkan jika belum dapat diakses maka *user* dapat menceklis pada kolom "tidak".
+
+
+###### Subkonten Edit Role
+
+| Subkonten | URL/ Image                               | Ada  | Tidak |
+| --------- | ---------------------------------------- | ---- | ----- |
+| Edit Role | [![Edit Role](../images/sop-online/integrasi-dan-pengujian/41-tampilan-edit-role.png)](../images/sop-online/integrasi-dan-pengujian/41-tampilan-edit-role.png) |      |       |
+
+
+
+
+
+
+##### Konten Request
+
+| Konten  | URL/ Image                               | Ada  | Tidak |
+| ------- | ---------------------------------------- | ---- | ----- |
+| Request | [![Konten request](../images/sop-online/integrasi-dan-pengujian/sop-request.png)](../images/sop-online/integrasi-dan-pengujian/sop-request.png) |      |       |
+
+
+
+
+
+
+
+
+###### Subkontem Tambah Request
+
+| Subkonten      | URL/ Image                               | Ada  | Tidak |
+| -------------- | ---------------------------------------- | ---- | ----- |
+| Workflow Guard | [![Tampilan Workflow Guard](../images/sop-online/integrasi-dan-pengujian/08-tampilan-workflow-guard.png)](../images/sop-online/integrasi-dan-pengujian/08-tampilan-workflow-guard.png) |      |       |
+
+
+Dalam tabel ini *user* dapat melakukan test kepada aplikasi apakah tampilan workflow guard sudah dapat diakses oleh *user* atau tidak. Jika sudah dapat diakses *user* dapat meceklis pada kolom "Ada" sedangkan jika belum dapat diakses maka *user* dapat menceklis pada kolom "tidak".
+
+###### Subkonten View Request
+
+| Subkonten    | URL/ Image                               | Ada  | Tidak |
+| ------------ | ---------------------------------------- | ---- | ----- |
+| View Request | [![View Request](../images/sop-online/integrasi-dan-pengujian/sop-request-view.png)](../images/sop-online/integrasi-dan-pengujian/sop-request-view.png) |      |       |
+
+
+
+###### Subkonten Edit Request
+
+| Subkonten    | URL/ Image                               | Ada  | Tidak |
+| ------------ | ---------------------------------------- | ---- | ----- |
+| Edit Request | [![Edit Role](../images/sop-online/integrasi-dan-pengujian/sop-request-edit.png)](../images/sop-online/integrasi-dan-pengujian/sop-request-edit.png) |      |       |
+
+
+
+
+
+
+
+
+###### Subkonten Edit State List
+
+| Subkonten       | URL/ Image                               | Ada  | Tidak |
+| --------------- | ---------------------------------------- | ---- | ----- |
+| Edit state list | [![Tampilan Edit state list](../images/sop-online/integrasi-dan-pengujian/25-tampilan-edit-state.png)](../images/sop-online/integrasi-dan-pengujian/25-tampilan-edit-state.png) |      |       |
+
+Dalam tabel ini *user* dapat melakukan test kepada aplikasi apakah tampilan edit attachment sudah dapat diakses oleh *user* atau tidak. Jika sudah dapat diakses *user* dapat meceklis pada kolom "Ada" sedangkan jika belum dapat diakses maka *user* dapat menceklis pada kolom "tidak".
 
 ##### Tampilan User
 
