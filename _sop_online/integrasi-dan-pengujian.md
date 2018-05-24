@@ -2,8 +2,7 @@
 layout: document
 title: Integrasi dan Pengujian SOP Online
 description: Integrasi Aplikasi SOP Online yang digunakan Pemerintah Provinsi Banten.
-group: aplikasi
-cat: sop-online
+cat: _sop_online
 toc: true
 ---
 
