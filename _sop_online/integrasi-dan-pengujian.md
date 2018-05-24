@@ -52,7 +52,7 @@ Pada page ini terdapat method yang berupa tombol **GET** dan link url untuk kont
 #### Pengujian SOP Online
 Sistem informasi saat ini semakin berkembang pesat membuat semua pekerjaan dikehidupan ini banyak yang sudah beralih dibantu oleh teknologi informasi. Teknologi yang dapat membantu lebih mudah, cepat, aman dan efektif jelas sangatlah membantu siapa saja yang memanfaatkannya, document dibuat untuk memberikan panduan penggunaan aplikasi SOP Online.
 
-Untuk memulai akses aplikasi SOP Online. Buka web browser (IE, Mozila Firefox atau yang lainnya) dengan menulis alamat url : http://http://sop.bantenprov.go.id/ kemudian tekan Enter pada tombol keyboard atau klik tombol Go pada browser.
+Untuk memulai akses aplikasi SOP Online. Buka web browser (IE, Mozila Firefox atau yang lainnya) dengan menulis alamat url http://http://sop.bantenprov.go.id/ kemudian tekan Enter pada tombol keyboard atau klik tombol Go pada browser.
 
 ##### Tampilan Login
 
