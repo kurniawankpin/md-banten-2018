@@ -2,8 +2,7 @@
 layout: document
 title: Implementasi
 description: Implementasi Aplikasi Mobile Layanan Kesehatan
-group: aplikasi
-cat: YANKES
+cat: _yankes
 toc: true
 ---
 
