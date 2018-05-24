@@ -2,8 +2,7 @@
 layout: document
 title: Desain dan Perancangan
 description: Desain dan Perancangan Aplikasi Mobile Layanan Kesehatan
-group: aplikasi
-cat: YANKES
+cat: _yankes
 toc: true
 ---
 
