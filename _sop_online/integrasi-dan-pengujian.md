@@ -58,7 +58,7 @@ Untuk memulai akses aplikasi SOP Online. Buka web browser (IE, Mozila Firefox at
 
 | Tampilan | URL/ Image                               | Ada  | Tidak |
 | -------- | ---------------------------------------- | ---- | ----- |
-| Login    | [![tampilan login](../images/sop-online/integrasi-dan-pengujian/01-tampilan-login.png)]((../images/sop-online/integrasi-dan-pengujian/01-tampilan-login.png) |      |       |
+| Login    | [![tampilan login](../images/sop-online/integrasi-dan-pengujian/01-tampilan-login.png)](../images/sop-online/integrasi-dan-pengujian/01-tampilan-login.png) |      |       |
 
 
 Dalam tabel ini *user* dapat melakukan test kepada aplikasi apakah tampilan login sudah dapat diakses oleh *user* atau tidak. Jika sudah dapat diakses *user* dapat meceklis pada kolom "Ada" sedangkan jika belum dapat diakses maka *user* dapat menceklis pada kolom "tidak".
