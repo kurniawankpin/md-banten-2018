@@ -25,31 +25,31 @@ Dibawah ini adalah pengintegrasian yang terdapat didalam JAWARA e-Gov:
 ### 1.1 Integrasi Menu Controller
 
 #### 1.1.1 Protected Function Banner
-[![Banner](../images/integrasi-dan-pengujian/mecr_protected-function_banner.png)](dev2018.bantenprov.go.id)
+[![Banner](../images/jawara-egov/integrasi-dan-pengujian/mecr_protected-function_banner.png)](dev2018.bantenprov.go.id)
 
 #### 1.1.2 Public Function Content
-[![Content](../images/integrasi-dan-pengujian/mecr_public-function_content.png)](dev2018.bantenprov.go.id)
+[![Content](../images/jawara-egov/integrasi-dan-pengujian/mecr_public-function_content.png)](dev2018.bantenprov.go.id)
 
 #### 1.1.3 Public Function Index
-[![Index](../images/integrasi-dan-pengujian/mecr_public-function_index.png)](dev2018.bantenprov.go.id)
+[![Index](../images/jawara-egov/integrasi-dan-pengujian/mecr_public-function_index.png)](dev2018.bantenprov.go.id)
 
 #### 1.1.4 Public Function Menu
-[![Menu](../images/integrasi-dan-pengujian/mecr_public-function_menu.png)](dev2018.bantenprov.go.id)
+[![Menu](../images/jawara-egov/integrasi-dan-pengujian/mecr_public-function_menu.png)](dev2018.bantenprov.go.id)
 
 #### 1.1.5 Public Function Pemerintahan
-[![Pemerintahan](../images/integrasi-dan-pengujian/mecr_public-function_pemerintah.png)](dev2018.bantenprov.go.id)
+[![Pemerintahan](../images/jawara-egov/integrasi-dan-pengujian/mecr_public-function_pemerintah.png)](dev2018.bantenprov.go.id)
 
 #### 1.1.6 Public Function Slide Utama
-[![Slide Utama](../images/integrasi-dan-pengujian/mecr_public-function_slide-utama.png)](dev2018.bantenprov.go.id)
+[![Slide Utama](../images/jawara-egov/integrasi-dan-pengujian/mecr_public-function_slide-utama.png)](dev2018.bantenprov.go.id)
 
 #### 1.1.7 Public Function Submenu
-[![Submenu](../images/integrasi-dan-pengujian/mecr_public-function_submenu.png)](dev2018.bantenprov.go.id)
+[![Submenu](../images/jawara-egov/integrasi-dan-pengujian/mecr_public-function_submenu.png)](dev2018.bantenprov.go.id)
 
 #### 1.1.8 Public Function Test
-[![Test](../images/integrasi-dan-pengujian/mecr_public-function_test.png)](dev2018.bantenprov.go.id)
+[![Test](../images/jawara-egov/integrasi-dan-pengujian/mecr_public-function_test.png)](dev2018.bantenprov.go.id)
 
 #### 1.1.9 Public Function Umum
-[![Umum](../images/integrasi-dan-pengujian/mecr_public-function_umum.png)](dev2018.bantenprov.go.id)
+[![Umum](../images/jawara-egov/integrasi-dan-pengujian/mecr_public-function_umum.png)](dev2018.bantenprov.go.id)
 
 Pada Integrasi **Menu Controller** semua response baik *Success Response* maupun *Error Response* hasilnya akan ditampilkan dalam bentuk Json. 
 
@@ -57,16 +57,16 @@ Pada Integrasi **Menu Controller** semua response baik *Success Response* maupun
 ### 1.2 Integrasi Mobile Controller
 
 #### 1.2.1 Public Function Content
-[![Content](../images/integrasi-dan-pengujian/mocr_public-function_content.png)](dev2018.bantenprov.go.id)
+[![Content](../images/jawara-egov/integrasi-dan-pengujian/mocr_public-function_content.png)](dev2018.bantenprov.go.id)
 
 #### 1.2.2 Public Function Index
-[![Index](../images/integrasi-dan-pengujian/mocr_public-function_index.png)](dev2018.bantenprov.go.id)
+[![Index](../images/jawara-egov/integrasi-dan-pengujian/mocr_public-function_index.png)](dev2018.bantenprov.go.id)
 
 #### 1.2.3 Public Function Menu
-[![Menu](../images/integrasi-dan-pengujian/mocr_public-function_menu.png)](dev2018.bantenprov.go.id)
+[![Menu](../images/jawara-egov/integrasi-dan-pengujian/mocr_public-function_menu.png)](dev2018.bantenprov.go.id)
 
 #### 1.2.4 Public Function Submenu
-[![Submenu](../images/integrasi-dan-pengujian/mocr_public-function_submenu.png)](dev2018.bantenprov.go.id)
+[![Submenu](../images/jawara-egov/integrasi-dan-pengujian/mocr_public-function_submenu.png)](dev2018.bantenprov.go.id)
 
 Pada Integrasi **Mobile Controller** semua response baik *Success Response* maupun *Error Response* hasilnya akan ditampilkan dalam bentuk Json. 
 
