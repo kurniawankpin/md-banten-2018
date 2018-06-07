@@ -7,6 +7,10 @@ comments: true
 cat: Jawara E-Gov
 ---
 
+## DAFTAR ISI
+* Will be replaced with the ToC, excluding the "Contents" header
+{:toc}
+
 ## Abstrak
 
 Pada akhir meledaknya bisnis dot-com pada tahun 1990-an, banyak pemerintah yang berkomitmen membuat situs portal sebagai layanan informasi bagi warganegara mereka. Di Amerika Serikat, portal utamanya adalah FirsGov.gov, di Inggris portal utama layanan informasi bagi warganegara adalah directgov dan busineslink.gov.uk untuk layanan informasi bisnis. Beberapa penelitian yang bersifat internasional dilakukan untuk mengukur kemampuan transaksional portal-portal ini, yang paling menyolok adalah penelitian yang diselenggarakan oleh Accenture. Website pemerintah daerah merupakan merupakan strategi *e-goverment* dengan sasaran agar maysarakat dapat dengan mudah memperoleh akses informasi. Untuk mencapai sasaran tersebut maka semua informasi perlu dikumpulkan dalam satu wadah portal web yang dapat dengan mudah diakses oleh masyarakat. dengan adanya web portal pemerintah ini dapat memudahkan masyarakat dalam mencari informasi tentang keadaan Pemerintah Banten dan tentang Provinsi Banten.
