@@ -167,19 +167,19 @@ Pada Tampilan ini terdapat beberapa submenu yaitu Profil Gubernur, Profil Wakil 
 
 #### 1.2.4 Tampilan Layanan Informasi
 
-.[![lihat Category](../images/jawara-egov/pengembangan/layanan-informasi.png)](../images/jawara-egov/pengembangan/layanan-informasi.png)
+[![lihat Category](../images/jawara-egov/pengembangan/layanan-informasi.png)](../images/jawara-egov/pengembangan/layanan-informasi.png)
 
 Pada Tampilan ini terdapat beberapa submenu yaitu PPID, Dasar Hukum dan Pelayanan.
 
 #### 1.2.5 Tampilan Informasi Pembangunan Daerah
 
-.[![lihat Category](../images/jawara-egov/pengembangan/informasi-pembangunan-daerah.png)](../images/jawara-egov/pengembangan/informasi-pembangunan-daerah.png)
+[![lihat Category](../images/jawara-egov/pengembangan/informasi-pembangunan-daerah.png)](../images/jawara-egov/pengembangan/informasi-pembangunan-daerah.png)
 
 Pada Tampilan ini terdapat beberapa submenu yaitu Transparansi Pengelolaan Anggaran Daerah, Informasi Berkala, Informasi Serta Merta, KTDA, SLAD dan MOU Perjanjian Kerjasama.
 
 #### 1.2.6 Tampilan Press Release
 
-.[![lihat Category](../images/jawara-egov/pengembangan/press-release.png)](../images/jawara-egov/pengembangan/press-release.png)
+[![lihat Category](../images/jawara-egov/pengembangan/press-release.png)](../images/jawara-egov/pengembangan/press-release.png)
 
 Pada Tampilan ini terdapat beberapa submenu yaitu Gallery, News and Events dan Kontak.
 
@@ -189,25 +189,25 @@ Pada Tampilan ini terdapat beberapa submenu yaitu Gallery, News and Events dan K
 
 [![lihat Category](../images/jawara-egov/pengembangan/loading.jpeg)](../images/jawara-egov/pengembangan/loading.jpeg)
 
-### 2.1 Tampilan Dashboard JAWARA e-Gov
+### 2.2 Tampilan Dashboard JAWARA e-Gov
 
-[![lihat Category](../images/jawara-egov/pengembangan/dashboard1.jpeg)](../images/jawara-egov/pengembangan/dashboard1.jpeg)
+[![lihat Category](../images/jawara-egov/pengembangan/dahboard3.jpeg)](../images/jawara-egov/pengembangan/dahboard3.jpeg)
 
 Pada tampilan ini *user* dapat melihat aplikasi-aplikasi yang telah terintegrasi dengan JAWARA e-Gov.
 
-### 2.2 Tampilan Apliaksi Pemerintah
+### 2.3 Tampilan Aplikasi Pemerintah
 
 [![lihat Category](../images/jawara-egov/pengembangan/aplikasi-pemerintah1.jpeg)](../images/jawara-egov/pengembangan/aplikasi-pemerintah1.jpeg)
 
 Pada tampilan ini *user* dapat melihat aplikasi-aplikasi yang digunakan khusus untuk pemerintahan saja.
 
-### 2.3 Tampilan Apliaksi Publik
+### 2.4 Tampilan Apliaksi Publik
 
 [![lihat Category](../images/jawara-egov/pengembangan/aplikasi-publik1.jpeg)](../images/jawara-egov/pengembangan/aplikasi-publik1.jpeg)
 
 Pada tampilan ini *user* dapat melihat aplikasi-aplikasi yang dapat digunakan oleh masyarakat khususnya dalam ruang lingkiup Provinsi Banten.
 
-### 2.4 Tampilan Jelajah Banten
+### 2.5 Tampilan Jelajah Banten
 
 [![lihat Category](../images/jawara-egov/pengembangan/jelajah-banten.jpeg)](../images/jawara-egov/pengembangan/jelajah-banten.jpeg)
 
