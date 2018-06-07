@@ -7,6 +7,10 @@ comments: true
 cat: Jawara E-Gov
 ---
 
+## DAFTAR ISI
+* Will be replaced with the ToC, excluding the "Contents" header
+{:toc}
+
 # Integrasi dan Pengujian JAWARA e-Gov
 
 JAWARA e-Gov adalah sebuah aplikasi sistem informasi portal pemerintahan Provinsi Banten yang berbasis website dan android yang dikeluarkan oleh pemerintah Provinsi Banten untuk memudahkan bagi masyarakat dalam melakukan pencarian informasi serta menjadi satu pintu bagi semua aplikasi Pemerintahan Provinsi Banten.
