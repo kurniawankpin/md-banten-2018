@@ -43,7 +43,7 @@ Adapun penyusun melakukan beberapa penelitian yang dilakukan dengan :
 ### 2.1 Metode Yang digunakan
 Menggunakan metode *prototyping* untuk melakukan perancangan sistem informasi berbasis web.
 Ilustrasi alur *prototyping*
-[![ilustrasi-alur-prototyping](../images/desain-dan-perancangan/alur-prototype.png)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/alur-prototype.png)
+[![ilustrasi-alur-prototyping](../images/e-hibahbansos/desain-dan-perancangan//alur-prototype.png)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/alur-prototype.png)
 ### 2.2 Metode Pengumpulan Data
 Untuk mengumpulkan data yang diperlukan untuk membangun sistem ini diadakan wawancara dan studi pustaka. Pengumpulan data ini diperlukan untuk mengetahui permasalahan dan gambaran sistem yang sedang berjalan sehingga dapat mengembangkannya untuk membentuk sistem baru yang dapat mendukung sistem yang sedang berjalan.
 1). Wawancara ini dilakukan kepada Pemprov Banten. Wawancara dilakukan kepada sistem analist Pemprov Banten untuk mengetahui permasalahan dalam proses pendataan yang sedang berjalan sekarang.
@@ -56,50 +56,50 @@ Permodelan rancangan sistem yang digunakan adalah UML (Unified Modeling Language
 
 #### 3.2.1 Use Cace Diagram
 ##### 3.2.1.1 Use Case Diagram Super Admin
-[![use-case-diagram-super-admin](../images/desain-dan-perancangan/usecase_superadmin.png)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/use-case-super-admin.jpg)
+[![use-case-diagram-super-admin](../images/e-hibahbansos/desain-dan-perancangan/usecase_superadmin.png)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/use-case-super-admin.jpg)
 
 ##### 3.2.1.2 Use Case Diagram Pendaftar Hibah
-[![use case diagram Pendaftar Hibah](../images/desain-dan-perancangan/usecase_pelapor.png)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/use-case-diagram-admin.jpg)
+[![use case diagram Pendaftar Hibah](../images/e-hibahbansos/desain-dan-perancangan/usecase_pelapor.png)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/use-case-diagram-admin.jpg)
 ##### 3.2.1.3 Use Case Diagram Organisasi Perangkat Daerah (OPD)
-[![use-case-diagram-opd](../images/desain-dan-perancangan/usecase_opd.png)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/use-case-dinas.jpg)
+[![use-case-diagram-opd](../images/e-hibahbansos/desain-dan-perancangan/usecase_opd.png)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/use-case-dinas.jpg)
 ##### 3.2.1.4 Use Case Diagram Inspektorat
-[![use-case-diagram-Inspektorat](../images/desain-dan-perancangan/usecase_inspektorat.png)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/use-case-dinas.jpg)
+[![use-case-diagram-Inspektorat](../images/e-hibahbansos/desain-dan-perancangan/usecase_inspektorat.png)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/use-case-dinas.jpg)
 ##### 3.2.1.5 Use Case Diagram TAPD
-[![use-case-diagram-TAPD](../images/desain-dan-perancangan/usecase_tapd.png)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/use-case-dinas.jpg)
+[![use-case-diagram-TAPD](../images/e-hibahbansos/desain-dan-perancangan/usecase_tapd.png)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/use-case-dinas.jpg)
 ##### 3.2.1.6 Use Case Diagram BPKAD
-[![use-case-diagram-BPKAD](../images/desain-dan-perancangan/usecase_bpkad.png)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/use-case-dinas.jpg)
+[![use-case-diagram-BPKAD](../images/e-hibahbansos/desain-dan-perancangan/usecase_bpkad.png)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/use-case-dinas.jpg)
 
 #### 3.2.2 Activity Diagram
 ##### 3.2.2.1 Activity Diagram Super Admin
-[![activity-diagram-super-admin](../images/desain-dan-perancangan/activitydiagram_superadmin.png)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/activity-diagram-super-admin.jpg)
+[![activity-diagram-super-admin](../images/e-hibahbansos/desain-dan-perancangan/activitydiagram_superadmin.png)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/activity-diagram-super-admin.jpg)
 ##### 3.2.2.2 Activity Diagram Kegiatan Belanja Hibah Bansos
-[![activity-diagram-kegiatan-belanja-dana-hibah-bansos](../images/desain-dan-perancangan/activitydiagram_workflow-hibahbansos.png)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/activity-diagram-input-data-super-admin.jpg)
+[![activity-diagram-kegiatan-belanja-dana-hibah-bansos](../images/e-hibahbansos/desain-dan-perancangan/activitydiagram_workflow-hibahbansos.png)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/activity-diagram-input-data-super-admin.jpg)
 
 #### 3.2.3 Sequence Diagram
 ##### 3.2.3.1 Sequence Diagram Super Admin
-[![sequence-diagram-super-admin](../images/desain-dan-perancangan/sequencediagram_superadmin.png)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/sequence-diagram-super-admin.jpg)
+[![sequence-diagram-super-admin](../images/e-hibahbansos/desain-dan-perancangan/sequencediagram_superadmin.png)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/sequence-diagram-super-admin.jpg)
 ##### 3.2.3.2 Sequence Kegiatan Belanja Hibah Bansos
-[![sequence-diagram-belanja-hibah-bansos](../images/desain-dan-perancangan/sequencediagram_workflow.png)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/sequence-diagram-super-admin.jpg)
+[![sequence-diagram-belanja-hibah-bansos](../images/e-hibahbansos/desain-dan-perancangan/sequencediagram_workflow.png)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/sequence-diagram-super-admin.jpg)
 
 #### 3.2.4 State Chart Diagram
 ##### 3.2.4.1 State Chart Diagram Super Admin
-[![state-chart-diagram-super-admin](../images/desain-dan-perancangan/statechart_superadmin.png)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/state-chart-diagram-login-super-admin.jpg)
+[![state-chart-diagram-super-admin](../images/e-hibahbansos/desain-dan-perancangan/statechart_superadmin.png)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/state-chart-diagram-login-super-admin.jpg)
 ##### 3.2.4.2 State Chart Diagram Pendaftar Hibah / Bansos
-[![state-chart-diagram-pendaftar](../images/desain-dan-perancangan/statechart_pendaftar.png)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/state-chart-diagram-input-data-super-admin.jpg)
+[![state-chart-diagram-pendaftar](../images/e-hibahbansos/desain-dan-perancangan/statechart_pendaftar.png)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/state-chart-diagram-input-data-super-admin.jpg)
 ##### 3.2.4.3 State Chart Diagram OPD
-[![state-chart-diagram-opd](../images/desain-dan-perancangan/statechart_opd.png)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/state-chart-diagram-edit-data-super-admin.jpg)
+[![state-chart-diagram-opd](../images/e-hibahbansos/desain-dan-perancangan/statechart_opd.png)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/state-chart-diagram-edit-data-super-admin.jpg)
 ##### 3.2.4.4 State Chart Diagram Inspektorat
-[![state-chart-diagram-inspektorat](../images/desain-dan-perancangan/statechart_inspektorat.png)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/state-chart-diagram-delete-data-super-admin.jpg)
+[![state-chart-diagram-inspektorat](../images/e-hibahbansos/desain-dan-perancangan/statechart_inspektorat.png)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/state-chart-diagram-delete-data-super-admin.jpg)
 ##### 3.2.4.5 State Chart Diagram TAPD
-[![state-chart-diagram-tapd](../images/desain-dan-perancangan/statechart_tapd.png)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/state-chart-diagram-view-data-super-admin.jpg)
+[![state-chart-diagram-tapd](../images/e-hibahbansos/desain-dan-perancangan/statechart_tapd.png)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/state-chart-diagram-view-data-super-admin.jpg)
 ##### 3.2.4.6 State Chart Diagram BPKAD
-[![state-chart-diagram-bpkad](../images/desain-dan-perancangan/statechart_bpkad.png)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/state-chart-diagram-view-data-super-admin.jpg)
+[![state-chart-diagram-bpkad](../images/e-hibahbansos/desain-dan-perancangan/statechart_bpkad.png)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/state-chart-diagram-view-data-super-admin.jpg)
 
 #### 3.2.5 Deployment Diagram
-[![deployment-diagram](../images/desain-dan-perancangan/deployment-diagram.jpg)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/deployment-diagram.jpg)
+[![deployment-diagram](../images/e-hibahbansos/desain-dan-perancangan/deployment-diagram.jpg)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/deployment-diagram.jpg)
 
 #### 3.2.6 Technology Stack Diagram
-[![technology-stack-diagram](../images/desain-dan-perancangan/technology-stack-diagram.jpg)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/technology-stack-diagram.jpg)
+[![technology-stack-diagram](../images/e-hibahbansos/desain-dan-perancangan/technology-stack-diagram.jpg)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/technology-stack-diagram.jpg)
 
 ### 3.3 Tahapan Pekerjaan :
 Tahap-tahap atau langkah yang dilakukan dalam mengembangkan Sistem Informasi E-hibahbansos adalah sebagai berikut:
@@ -121,51 +121,51 @@ Sistem yang telah selesai dibuat akan diuji coba menggunakan data test sebelum s
 ### 3.4 Hasil
 Berikut ini adalah hasil eksekusi sistem informasi Dashboard
 #### 3.4.1 Layout Tampilan Awal
-[![tampilan-awal](../images/desain-dan-perancangan/tampilan-awal.png)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/dashboard-awal-login.jpg)
+[![tampilan-awal](../images/e-hibahbansos/desain-dan-perancangan/tampilan-awal.png)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/dashboard-awal-login.jpg)
 #### 3.4.2 Layout Tampilan Login
-[![dashboard-awal-login](../images/desain-dan-perancangan/login.png)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/dashboard-awal-login.jpg)
+[![dashboard-awal-login](../images/e-hibahbansos/desain-dan-perancangan/login.png)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/dashboard-awal-login.jpg)
 #### 3.4.3 Layout Tampilan Registrasi
-[![dashboard-super-admin](../images/desain-dan-perancangan/registrasi.png)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/dashboard-super-admin.jpg)
+[![dashboard-super-admin](../images/e-hibahbansos/desain-dan-perancangan/registrasi.png)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/dashboard-super-admin.jpg)
 #### 3.4.4 Layout Tampilan Tentang
-[![Tentang](../images/desain-dan-perancangan/layout_tentang.png)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/dashboard-super-admin.jpg)
+[![Tentang](../images/e-hibahbansos/desain-dan-perancangan/layout_tentang.png)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/dashboard-super-admin.jpg)
 #### 3.4.5 Layout Tampilan Proposal
-[![Tentang](../images/desain-dan-perancangan/layout_proposal.png)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/dashboard-super-admin.jpg)
+[![Tentang](../images/e-hibahbansos/desain-dan-perancangan/layout_proposal.png)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/dashboard-super-admin.jpg)
 #### 3.4.6 Layout Tampilan Laporan
-[![dashboard-superadmin](../images/desain-dan-perancangan/layout_laporan.png)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/dashboard-admin.jpg)
+[![dashboard-superadmin](../images/e-hibahbansos/desain-dan-perancangan/layout_laporan.png)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/dashboard-admin.jpg)
 #### 3.4.7 Layout Tampilan Superadmin
-[![dashboard-superadmin](../images/desain-dan-perancangan/tampilan-awal_superadmin.png)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/dashboard-admin.jpg)
+[![dashboard-superadmin](../images/e-hibahbansos/desain-dan-perancangan/tampilan-awal_superadmin.png)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/dashboard-admin.jpg)
 ##### 3.4.7.1 Layout Tampilan Koreksi
-[![koreksi](../images/desain-dan-perancangan/layout_koreksi.png)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/dashboard-admin.jpg)
+[![koreksi](../images/e-hibahbansos/desain-dan-perancangan/layout_koreksi.png)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/dashboard-admin.jpg)
 ##### 3.4.7.2 Layout Tampilan CMS
-[![koreksi](../images/desain-dan-perancangan/layout_cms.png)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/dashboard-admin.jpg)
+[![koreksi](../images/e-hibahbansos/desain-dan-perancangan/layout_cms.png)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/dashboard-admin.jpg)
 #### 3.4.8 Layout Tampilan Pendaftar Hibah Bansos
-[![pendaftar](../images/desain-dan-perancangan/layout_awal-pendaftar.png)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/dashboard-admin.jpg)
+[![pendaftar](../images/e-hibahbansos/desain-dan-perancangan/layout_awal-pendaftar.png)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/dashboard-admin.jpg)
 ##### 3.4.8.1 Layout Tampilan Daftar
-[![koreksi](../images/desain-dan-perancangan/layout_daftar.png)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/dashboard-admin.jpg)
+[![koreksi](../images/e-hibahbansos/desain-dan-perancangan/layout_daftar.png)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/dashboard-admin.jpg)
 ##### 3.4.8.2 Layout Tampilan LPJ
-[![koreksi](../images/desain-dan-perancangan/layout_lpj.png)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/dashboard-admin.jpg)
+[![koreksi](../images/e-hibahbansos/desain-dan-perancangan/layout_lpj.png)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/dashboard-admin.jpg)
 #### 3.4.9 Layout Tampilan OPD
-[![tampilan OPD](../images/desain-dan-perancangan/layout_awal-opd.png)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/dashboard-admin.jpg)
+[![tampilan OPD](../images/e-hibahbansos/desain-dan-perancangan/layout_awal-opd.png)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/dashboard-admin.jpg)
 ##### 3.4.9.1 Layout Tampilan Daftar OPD
-[![koreksi](../images/desain-dan-perancangan/layout_daftar-opd.png)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/dashboard-admin.jpg)
+[![koreksi](../images/e-hibahbansos/desain-dan-perancangan/layout_daftar-opd.png)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/dashboard-admin.jpg)
 ##### 3.4.9.2 Layout Tampilan Cek Berkas
-[![koreksi](../images/desain-dan-perancangan/layout_cek-berkas.png)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/dashboard-admin.jpg)
+[![koreksi](../images/e-hibahbansos/desain-dan-perancangan/layout_cek-berkas.png)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/dashboard-admin.jpg)
 ##### 3.4.9.3 Layout Tampilan Pemberian Rekomendasi
-[![koreksi](../images/desain-dan-perancangan/layout_opd-rekomendasi.png)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/dashboard-admin.jpg)
+[![koreksi](../images/e-hibahbansos/desain-dan-perancangan/layout_opd-rekomendasi.png)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/dashboard-admin.jpg)
 #### 3.4.10 Layout Tampilan Inspektorat
-[![tampilan OPD](../images/desain-dan-perancangan/layout_awal-inspektorat.png)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/dashboard-admin.jpg)
+[![tampilan OPD](../images/e-hibahbansos/desain-dan-perancangan/layout_awal-inspektorat.png)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/dashboard-admin.jpg)
 ##### 3.4.10.1 Layout Tampilan Rekomendasi dan Verifikasi
-[![koreksi](../images/desain-dan-perancangan/layout_rekom-dan-verifikasi.png)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/dashboard-admin.jpg)
+[![koreksi](../images/e-hibahbansos/desain-dan-perancangan/layout_rekom-dan-verifikasi.png)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/dashboard-admin.jpg)
 #### 3.4.11 Layout Dashboard TAPD
-[![tampilan OPD](../images/desain-dan-perancangan/layout_awal-tapd.png)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/dashboard-admin.jpg)
+[![tampilan OPD](../images/e-hibahbansos/desain-dan-perancangan/layout_awal-tapd.png)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/dashboard-admin.jpg)
 ##### 3.4.9.1 Layout Tampilan Verifikasi
-[![koreksi](../images/desain-dan-perancangan/layout_verifikasi-tapd.png)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/dashboard-admin.jpg)
+[![koreksi](../images/e-hibahbansos/desain-dan-perancangan/layout_verifikasi-tapd.png)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/dashboard-admin.jpg)
 ##### 3.4.9.2 Layout Tampilan Generate
-[![koreksi](../images/desain-dan-perancangan/layuot_generate.png)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/dashboard-admin.jpg)
+[![koreksi](../images/e-hibahbansos/desain-dan-perancangan/layuot_generate.png)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/dashboard-admin.jpg)
 #### 3.4.12 Layout Dashboard BPKAD
-![tampilan BPKAD](../images/desain-dan-perancangan/layout_awal-bpkad.png)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/dashboard-admin.jpg)
+![tampilan BPKAD](../images/e-hibahbansos/desain-dan-perancangan/layout_awal-bpkad.png)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/dashboard-admin.jpg)
 ##### 3.4.12.1 Layout Tampilan Upload SPPD dan SPJ
-[![koreksi](../images/desain-dan-perancangan/layout_sppd-dan-spj.png)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/dashboard-admin.jpg)
+[![koreksi](../images/e-hibahbansos/desain-dan-perancangan/layout_sppd-dan-spj.png)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/dashboard-admin.jpg)
 
 ## 4.PENUTUP
 
