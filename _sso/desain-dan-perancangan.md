@@ -4,7 +4,6 @@ title: "Desain dan Perancangan"
 date: 2018-05-16 16:25:06 +0700
 comments: true
 toc: true
-
 ---
 ## ABSTRAK
 Dewasa ini perkembangan teknologi komputer sangatlah pesat. Dengan menggunakan aplikasi komputer akan didapat informasi mengenai suatu tampilan objek yang ditampilkan lebih hidup dan menarik. Dengan banyaknya aplikasi pada pemerintahan sehingga membutuhkan suatu aplikasi yang mengijinkan *user* untuk mengakses semua aplikasi dengan satu akun login.
@@ -25,30 +24,30 @@ mengautentikasi *user* untuk mengakses semua aplikasi yang telah di-*authorized*
 Untuk memperoleh data yang dapat menunjang aplikasi ini, maka di perlukan data teoritis dan data dinas terkait untuk mendapatkan data dan informasi yang berhubungan dengan aplikasi ini.
 Adapun penyusun melakukan beberapa penelitian yang dilakukan dengan :
 
-### 2.1 Metode Yang digunakan
-Menggunakan metode *prototyping* untuk melakukan perancangan sistem informasi berbasis web.
-Ilustrasi alur *prototyping*
-[![ilustrasi-alur-prototyping](../images/e-hibahbansos/desain-dan-perancangan/alur-prototype.png)](../images/e-hibahbansos/desain-dan-perancangan/alur-prototype.png)
+### 2.1 Metode Perancangan
+Metode yang dilakukan adalah perancangan proses yang berupa diagram alir (flowchart). Diagram alir (flowchart) ini merupakan diagram yang menjelaskan hubungan dan urutan proses yang berjalan dalam sistem.
+Ilustrasi alur 
+[![ilustrasi-alur-prototyping](../images/sso/desain-dan-perancangan/20180721_alur-sistem.png)](../images/sso/desain-dan-perancangan20180721_alur-sistem.png)
 
 ### 2.2 Metode Pengumpulan Data
-Untuk mengumpulkan data yang diperlukan untuk membangun sistem ini diadakan wawancara dan studi pustaka. Pengumpulan data ini diperlukan untuk mengetahui permasalahan dan gambaran sistem yang sedang berjalan sehingga dapat mengembangkannya untuk membentuk sistem baru yang dapat mendukung sistem yang sedang berjalan.
-1). Wawancara ini dilakukan kepada Pemprov Banten. Wawancara dilakukan kepada sistem analist Pemprov Banten untuk mengetahui permasalahan dalam proses pendataan yang sedang berjalan sekarang.
-2). Studi Pustaka, Melakukan pengumpulan melalui buku text, internet sebagai referensi.
+Untuk mengumpulkan data yang diperlukan untuk membangun sistem ini diadakan wawancara dan studi pustaka.
+1. Wawancara ini dilakukan kepada Pemprov Banten. Wawancara dilakukan kepada sistem analist Pemprov Banten untuk mengetahui permasalahan dalam proses pendataan yang sedang berjalan sekarang.
+2. Studi Pustaka, Melakukan pengumpulan melalui buku text, internet sebagai referensi.
 
 ## 3. HASIL DAN PEMBAHASAN
 ### 3.1 Kebutuhan Software dan Hardware
 Adapun alat bantu software dan hardware dalam melakukan analisis dan perancangan adalah sebagai berikut:
 
 #### 3.1.1 Software
-•	Ubuntu 17.04
-•	Typora (Markdown) & dillinger.io
-•	Gliffy Diagram
+1. Ubuntu 17.04
+2. Typora (Markdown) & dillinger.io
+3. Gliffy Diagram
 
 #### 3.1.2 Hardware
 Laptop dengan spesifikasi sebagai berikut:
-•	Intel Celeron N2830 Speed 2.16 Ghz Turbo Boost 2.14 Ghz
-•	Memori DDR3 2GB
-•	Hard disk 500GB
+1. Intel Celeron N2830 Speed 2.16 Ghz Turbo Boost 2.14 Ghz
+2. Memori DDR3 2GB
+3. Hard disk 500GB
 
 ### 3.2 Analisis Permasalahan
 Permasalahan yang terjadi pada saat ini adalah sebagai berikut:
@@ -64,9 +63,9 @@ Solusi yang kami tawarkan adalah pembuatan aplikasi *Single Sign Out* (SSO) yang
 pada database yang digunakan oleh single user atau hanya beberapa user saja, perancangan database tidak sulit. tetapi jika ukuran database yang sedang atau besar ( 25 - ratusan user yang berisikan jutaan bytes informasi dan melibatkan ratusan query dan program program aplikasi) perancangan database menjadi sangat komplek. Oleh karena itu para pemakai mengharapkan penggunaan database yang sedemikian rupa sehingga sistem harus dapat memenuhi kebutuhan-kebutuhan seluruh user tersebut.
 
 #### 3.5.1 Tujuan perancangan database:
-•	Untuk memenuhi informasi yang diberisikan kebutuhan-kebutuhan user secara khusus dan aplikasi-aplikasinya.
-•	Memudahkan pengertian struktur informasi
-•	Mendukung kebutuhan-kebutuhan pemrosesan dan beberapa obyek penampilan (response time, processing time dan storage space)
+1. Untuk memenuhi informasi yang diberisikan kebutuhan-kebutuhan user secara khusus dan aplikasi-aplikasinya.
+2. Memudahkan pengertian struktur informasi
+3. Mendukung kebutuhan-kebutuhan pemrosesan dan beberapa obyek penampilan (response time, processing time dan storage space)
 
 ### 3.6 Perancangan Sistem
 Permodelan rancangan sistem yang dgunakan adalah UML (Unified Modeling Language). Menurut Whitten dan Bentley (2007, p.381), Unified Modeling Language adalah kumpulan rancangan diagram untuk membangun sebuah sistem atau aplikasi yang dimana setiap diagram menyediakan sistem informasi kepada tim pengembang dengan berbagai sudut pandang yang berbeda-beda. UML yang kami gunakan terdiri dari use case diagram, activity diagram, sequence diagram, state chart diagram, class diagram, technology diagram dan deployment diagram.
@@ -82,5 +81,6 @@ Permodelan rancangan sistem yang dgunakan adalah UML (Unified Modeling Language)
 [![ilustrasi-alur-prototyping](../images/sso/desain-dan-perancangan/20180721_usecase-user.png)](../images/sso/desain-dan-perancangan/20180721_usecase-user.png)
 
 #### 3.6.2 Activity Diagram
+
 
 
