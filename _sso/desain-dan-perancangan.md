@@ -27,7 +27,7 @@ Adapun penyusun melakukan beberapa penelitian yang dilakukan dengan :
 ### 2.1 Metode Perancangan
 Metode yang dilakukan adalah perancangan proses yang berupa diagram alir (flowchart). Diagram alir (flowchart) ini merupakan diagram yang menjelaskan hubungan dan urutan proses yang berjalan dalam sistem.
 Ilustrasi alur 
-[![ilustrasi-alur-prototyping](../images/sso/desain-dan-perancangan/20180721_alur-sistem.png)](../images/sso/desain-dan-perancangan20180721_alur-sistem.png)
+[![ilustrasi-alur-prototyping](../images/sso/desain-dan-perancangan/20180723_alur-sso.png)](../images/sso/desain-dan-perancangan/20180723_alur-sso.png)
 
 ### 2.2 Metode Pengumpulan Data
 Untuk mengumpulkan data yang diperlukan untuk membangun sistem ini diadakan wawancara dan studi pustaka.
