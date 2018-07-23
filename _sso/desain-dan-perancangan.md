@@ -18,7 +18,7 @@ Pada saat ini perkembangan dunia informasi semakin berkembang dengan pesat khusu
 Web portal merupakan sebuah teknologi yang akan berkembang pada teknologi web di masa depan. Satu halaman portal terdiri dari berbagai macam portlets yang dapat mengirimkan informasi dari banyak sumber (Braun et al, 2004). Selain informasi web portal juga dapat menggabungkan berbagai aplikasi web menjadi satu kesatuan, sebagai contoh adalah Banten Satu Data Jawara e-Gov.
 
 Dalam sebuah web aplikasi, tentu tidak lepas dari pembahasan keamanannya. Ketika mengevaluasi keamanan sebuah web aplikasi, ada dikenal “CI4A” (*Confidentiality, Integrity, Authentication, Authorization, Availability, and Accountability*) (Lebanidze, 2006). Dari banyak kriteria keamanan web aplikasi, yang sering diabaikan adalah *authentication*, dan *authorization*. *Single sign-on* (SSO) adalah sebuah *session* atau proses autentikasi *user* yang mengijinkan user untuk menyediakan sebuah credential sekali dengan maksud untuk mengakses banyak aplikasi (Wikipedia, 2007n; Aaslund et al, 2007). *Single sign on* (SSO)
-mengautentikasi *user* untuk mengakses semua aplikasi yang telah di-*authorized* untuk diakses. Ini menghilangkan permintaan *authenticaton* lagi ketika user mengganti aplikasi selama *session* berlaku (Aaslund et al, 2007).
+mengautentikasi *user* untuk mengakses semua aplikasi yang telah di-*authorized* untuk diakses. Ini menghilangkan permintaan *authenticaton* lagi ketika user mengganti aplikasi selama *session* berlaku (Aaslund et al, 2007). Untuk menyambungkan data - data tersebut diperlukan API untuk mengintegrasikan semua aplikasi dengan aplikasi SSO.
 
 ## 2. Metode Penelitian
 Untuk memperoleh data yang dapat menunjang aplikasi ini, maka di perlukan data teoritis dan data dinas terkait untuk mendapatkan data dan informasi yang berhubungan dengan aplikasi ini.
@@ -152,3 +152,70 @@ sehingga memungkinkan pengembang untuk kembali ke tahapan pertama yaitu analisa 
 
 Berikut ini adalah hasil eksekusi aplikasi SSO
 
+#### 3.8.1 Layout Tampilan Awal
+
+[![ilustrasi-alur-prototyping](../images/sso/desain-dan-perancangan/20180723_layout-depan.png)](../images/sso/desain-dan-perancangan/20180723_layout-depan.png)
+
+Layout tampilan awal ini akan muncul ketika *user* masuk kedalam aplikasi SSO.
+
+#### 3.8.2 Layout Tampilan registrasi
+
+[![ilustrasi-alur-prototyping](../images/sso/desain-dan-perancangan/20180723_layout-form-registrasi.png)](../images/sso/desain-dan-perancangan/20180723_layout-form-registrasi.png)
+
+Layout ini akan muncul ketika *user* mengklik tombol Registrasi pada kanan atas web, layout ini digunakan bagi *user* yang belum mepunyai id.
+
+#### 3.8.3 Layout Tampilan Login
+
+[![ilustrasi-alur-prototyping](../images/sso/desain-dan-perancangan/20180723_layout-form-login.png)](../images/sso/desain-dan-perancangan/20180723_layout-form-login.png)
+
+Layout ini akan muncul ketika *user* mengklik tombol Login pada kanan atas web, Layout ini digunakan bagi *user* yang ingin masuk kedalam aplikasi SSO.
+
+#### 3.8.4 Layout Tampilan Superadmin
+
+##### 3.8.4.1 Layout Dashboard Superadmin
+
+[![ilustrasi-alur-prototyping](../images/sso/desain-dan-perancangan/20180723_layout-dashboard-superadmin.png)](../images/sso/desain-dan-perancangan/20180723_layout-dashboard-superadmin.png)
+
+Layout ini akan muncul setelah superadmin melakukan login kedalam aplikasi.
+
+##### 3.8.4.2 Layout Members
+
+[![ilustrasi-alur-prototyping](../images/sso/desain-dan-perancangan/20180723_layout-members-superadmin.png)](../images/sso/desain-dan-perancangan/20180723_layout-members-superadmin.png)
+
+Layout ini dapat diakses dengan mengklik Members pada modul Members & Apps Management, pada layout ini superadmin dapat me*manage members* seperti melihat *member* yang sudah terdaftar, mengedit data *member* atau memblock *member*.
+
+##### 3.8.4.3 Layout Apps
+
+[![ilustrasi-alur-prototyping](../images/sso/desain-dan-perancangan/20180723_layout-sso-apps-superadmin.png)](../images/sso/desain-dan-perancangan/20180723_layout-sso-apps-superadmin.png)
+
+Layout ini dapat diakses dengan mengklik Apps pada modul Members & Apps Management, pada layout ini superadmin dapat me*manage* aplikasi yang dapat di akses oleh member seperti melihat *aplikasi* yang sudah terdaftar atau memblock aplikasi.
+
+#### 3.8.5 Layout Tampilan User/Member
+
+##### 3.8.5.1 Layout Dashboard User/Member
+
+[![ilustrasi-alur-prototyping](../images/sso/desain-dan-perancangan/20180723_layout-dashboard-user.png)](../images/sso/desain-dan-perancangan/20180723_layout-dashboard-user.png)
+
+Layout dapat diakses setelah member melakukan login pada aplikasi SSO.
+
+##### 3.8.5.2 Layout My Profile
+
+[![ilustrasi-alur-prototyping](../images/sso/desain-dan-perancangan/20180723_layout-my-profile-user.png)](../images/sso/desain-dan-perancangan/20180723_layout-my-profile-user.png)
+
+Layout ini dapat diakses dengan mengklik modul My Profile, pada layout ini member dapat mengedit data member seperti mengedit profile, pasword dan avatar dari member.
+
+##### 3.8.5.3 Layout Create SSO Apps
+
+[![ilustrasi-alur-prototyping](../images/sso/desain-dan-perancangan/20180723_layout-create-sso-app.png)](../images/sso/desain-dan-perancangan/20180723_layout-create-sso-app.png)
+
+Layout ini dapat diakses dengan mengklik Create SSO Apps pada modul SSO Apps, pada modul ini member dapat mendaftarkan aplikasi apa saja yang ingin diakses oleh member setelah mendaftarkan aplikasi tersebut maka akan mendapatkan App ID sehingga dapat melakukan login kepada aplikasi tersebut tanpa melakukan registrasi lagi pada aplikasi tersebut.
+
+##### 3.8.5.4 Layout SSO Apps
+
+[![ilustrasi-alur-prototyping](../images/sso/desain-dan-perancangan/20180723_layout-sso-app.png)](../images/sso/desain-dan-perancangan/20180723_layout-sso-app.png)
+
+Layout ini dapat diakses dengan mengklik SSO Apps pada modul SSO Apps, pada layout ini member dapat melihat daftar aplikasi apa saja yang telah didaftarkan pada aplikasi SSO ini.
+
+## 4. Penutup
+
+Dengan adanya pembuatan aplikasi SSO ini dapat membantu/memudahkan *user/member* dalam mengakses aplikasi - aplikasi yang diinginkan tanpa perlu melakukan registrasi pada setiap aplikasi dengan resiko lupa akan password atau id pada aplikasi - aplikasi tersebut.
