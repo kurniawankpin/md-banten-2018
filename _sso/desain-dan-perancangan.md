@@ -51,7 +51,7 @@ Laptop dengan spesifikasi sebagai berikut:
 
 ### 3.2 Analisis Permasalahan
 Permasalahan yang terjadi pada saat ini adalah sebagai berikut:
-1. Belum adanya suatu aplikasi yang men=mungkinkan *user* untuk mengakses semua aplikasi menggunakan satu akun login.
+1. Belum adanya suatu aplikasi yang memungkinkan *user* untuk mengakses semua aplikasi menggunakan satu akun login.
 
 ### 3.3 Solusi
 Solusi yang kami tawarkan adalah pembuatan aplikasi *Single Sign Out* (SSO) yang memungkinkan *user* untuk mengakses semua aplikasi dengan menggunakan satu akun login.
@@ -82,5 +82,73 @@ Permodelan rancangan sistem yang dgunakan adalah UML (Unified Modeling Language)
 
 #### 3.6.2 Activity Diagram
 
+##### 3.6.2.1 Activity Diagram Superadmin
 
+[![ilustrasi-alur-prototyping](../images/sso/desain-dan-perancangan/20180723_activitydiagram-superadmin.png)](../images/sso/desain-dan-perancangan/20180723_activitydiagram-superadmin.png)
+
+##### 3.6.2.2 Activity Diagram User
+
+[![ilustrasi-alur-prototyping](../images/sso/desain-dan-perancangan/20180723_activitydiagram-user.png)](../images/sso/desain-dan-perancangan/20180723_activitydiagram-user.png)
+
+#### 3.6.3 Sequence Diagram
+
+##### 3.6.3.1 Sequence Diagram Superadmin
+
+[![ilustrasi-alur-prototyping](../images/sso/desain-dan-perancangan/20180723_sequencediagram-superadmin.png)](../images/sso/desain-dan-perancangan/20180723_sequencediagram-superadmin.png)
+
+##### 3.6.3.2 Sequence Diagram User
+
+[![ilustrasi-alur-prototyping](../images/sso/desain-dan-perancangan/20180723_sequencediagram-user.png)](../images/sso/desain-dan-perancangan/20180723_sequencediagram-user.png)
+
+#### 3.6.4 State Chart Diagram
+
+##### 3.6.4.1 Dtate Chart Diagram Superadmin
+
+[![ilustrasi-alur-prototyping](../images/sso/desain-dan-perancangan/20180723_statechart-superadmin.png)](../images/sso/desain-dan-perancangan/20180723_statechart-superadmin.png)
+
+
+##### 3.6.4.2 Dtate Chart Diagram User
+
+[![ilustrasi-alur-prototyping](../images/sso/desain-dan-perancangan/20180723_statechart-user.png)](../images/sso/desain-dan-perancangan/20180723_statechart-user.png)
+
+#### 3.6.5 Deployment Diagram
+
+[![ilustrasi-alur-prototyping](../images/sso/desain-dan-perancangan/20180723_deployment-diagram.png)](../images/sso/desain-dan-perancangan/20180723_deployment-diagram.png)
+
+#### 3.6.6 Technology Stack Diagram
+
+[![ilustrasi-alur-prototyping](../images/sso/desain-dan-perancangan/technology-stack-diagram.jpg)](../images/sso/desain-dan-perancangan/technology-stack-diagram.jpg)
+
+### 3.7 Tahapan Pekerjaan
+
+Tahap-tahap atau langkah yang dilakukan dalam pembuatan aplikasi SSO adalah sebagai berikut:
+
+#### 3.7.1 Analisis dan Perancangan
+
+**Analisis**
+
+Tim pengembang aplikasi akan melakukan analisis jika diperlukan dapat dilakukan survey pendahuluan untuk melihat sejauh mana kebutuhan pengguna akan sistem yang akan dibangun, fasiitas yang akan dibangun, data-data yang dibutuhkan, dll. Dalam analisis ini akan dilakukan diskusi-diskusi dengan bagian terkait pada satuan kerja.
+
+**Perancangan Sistem**
+
+Perancangan sistem dilaksanakan setelah proses analisis dilaksanakan dan telah disepakati modul dan prosedur-prosedur yang akan diterapkan dalam sistem.
+
+#### 3.7.2 Pembangunan Sistem
+
+Setelah proses analisis dan perancangan sistem selesai dilakukan, tahapan selanjutnya adalah pembangunan sistem, yang meliputi kegiatan: pembuatan struktur database, pembuatan kode program/coding, pembuatan laporan-laporan.
+
+#### 3.7.3 Integrasi dan Pengujian
+
+**Integrasi**
+
+Setelah proses pengembangan sistem selesai dilakukan, tahapan selanjutnya adalah Integrasi sistem, yang meliputi kegiatan: pembuatan struktur database terkait integrasi, pembuatan kode program/coding terkait integrasi, pembuatan laporan-laporan terkait integrasi.
+
+**Pengujian**
+
+Sistem yang telah selesai dibuat akan diuji coba menggunakan data test sebelum sistem dijalankan. Dalam uji coba sistem ini akan diterapkan metode *prototype*, yaitu jika terjadi kesalahan/kekurangan baik proses maupun *output* sistem, maka kesalahan/kekurangan tersebut akan diperbaiki/ditambahkan,
+sehingga memungkinkan pengembang untuk kembali ke tahapan pertama yaitu analisa (jika kekurangan sistem memang tidak terdefinisikan dalam dokumen perancangan sistem).
+
+### 3.8 Hasil
+
+Berikut ini adalah hasil eksekusi aplikasi SSO
 
