@@ -55,7 +55,7 @@ Tampilan ini dapat diakses dengan mengklik modul "Android" pada kanan atas halam
 
 Tampilan ini dapat diakses ketika member aplikasi SSO berhasil melakukan Login.
 
-### 2.1 Tamplan Dashboard Member
+### 2.1 Tampilan Dashboard Member
 
 [![ilustrasi-alur-prototyping](../images/sso/pengembangan/20180724_member_dashboard.png)](../images/sso/pengembangan/20180724_member_dashboard.png)
 
