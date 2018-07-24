@@ -8,8 +8,7 @@ comments: true
 
 ## Daftar Isi
 
-* Will be replaced with the ToC, excluding the "Contents" header
-{:toc}
+[TOC]
 
 ## Integrasi dan Pengujian (UAT) SSO
 
